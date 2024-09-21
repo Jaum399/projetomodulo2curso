@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    font-family: "inter";
+}
+
+#cabecalho {
+    
+    
+   padding-top: 110px;
+   padding-left: 62px;
+    width: 1350px;
+    height: 215px;
+    color: white;
+    background-color: #303030;
+
+    background-image: url(./imagens/cabecalho.svg);
+
+font-family: Inter;
+font-size: 20px;
+
+
+
+
+}
+#paragrafo{
+    padding: 10px;
+}
+#infos{
+    color: black;
+    height: 129px;
+    font-size: 10px;
+    display: grid;
+    grid-auto-flow: column;
+    font-size: 15px;
+   justify-items: auto;
+   padding-left: 100px;
+    width: auto;
+    padding: 50px;
+
+}
+#text-info{
+    justify-items: auto;
+    display: grid;
+    grid-auto-flow: column;
+    padding-left: 60px;
+    top: -50px;
+}
+
+
+
+
+#projeto{
+    padding-left: 50px;
+    padding-top: 80px;
+    display: grid;
+    grid-auto-flow: column;
+    
+    
+font-size: 24px;
+
+
+
+}
+#titulo-projeto{
+  font-size: 33px;
+  margin-top: 80px;
+  margin-left: 5px;
+}
+#text-projeto {
+ 
+   
+    
+   font-weight: 280;
+    font-size: 21px; /* Tamanho da fonte */
+    
+}
+#title-projeto{
+    width: 92%;
+    height: 80%;
+}
+section{
+   margin-top: 50px;
+}
+#formulario{
+  
+    background-color:  #303030;
+    width: 1400px;
+height: 438px;
+top: 1478px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+
+
+form {
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+
+width: 388px;
+height: 52px;
+top: 1661px;
+left: 466px;
+gap: 0px;
+border-radius: 10px ;
+opacity: 0px;
+
+}
+#dados{
+    margin-top: 40px;
+}
+#title-form{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+button {
+    background: #C07212;
+    color: #ffffff;
+    margin-top: 100px;
+    width: 250px;
+height: 54px;
+
+left: 577px;
+gap: 0px;
+border-radius: 10px ;
+
+
+    
+}
+
+button:hover {
+    background-color: #efac5b;
+}
+
+/* Centralizando a section e outros elementos */
+
+
+
+
+
